@@ -1,3 +1,8 @@
+
+첫번째 수정 Test.
+forking한 sakool999의 repo에서, 수정후 full request 
+
+
 # Backbone environment for node.js (capt)
 
 `capt` is a tool to help you quickly create backbone.js applications and maintain a good directory structure and give you build tools to help development.
@@ -29,9 +34,6 @@ Languages supported:
 * Coffeescript
 * Javascript
 * LESS
-
-첫번째 수정 Test.
-forking한 sakool999의 repo에서, 수정후 full request 
 
 Testing framework:
 
